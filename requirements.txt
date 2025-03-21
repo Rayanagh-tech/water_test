@@ -1,3 +1,4 @@
+numpy
 annotated-types==0.6.0
 anyio==4.3.0
 astroid==2.4.1
@@ -22,7 +23,6 @@ joblib==1.3.2
 lazy-object-proxy==1.4.3
 MarkupSafe==2.1.5
 mccabe==0.6.1
-numpy==1.24.4
 orjson==3.9.15
 pandas==2.0.3
 pycodestyle==2.6.0
