@@ -2,6 +2,7 @@ from fastapi import FastAPI
 import pickle
 import pandas as pd
 from data_model import Water
+import numpy as np
 
 #creating instance of FasAPI
 app = FastAPI(
