@@ -10,7 +10,7 @@ app = FastAPI(
     )
 
 #Load our pre trained model
-with open("C:\water-potability-prediction_test\model.pkl","rb") as f:
+with open("model.pkl","rb") as f:
     model = pickle.load(f)
 
 #create our first endpoint 
