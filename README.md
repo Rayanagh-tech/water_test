@@ -31,7 +31,6 @@ uvicorn main:app --reload
 This project has been successfully deployed on Render.
 
 🔗 result Demo: ![Description](./Screenshot%202025-04-01%20151607.png)
-🔗 site web: ![Description](https://water-test-vj3z.onrender.com)
 This project can also be deployed on Heroku or Dockerized for cloud deployment.
 
 ## 🏗️ API Usage
