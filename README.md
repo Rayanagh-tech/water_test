@@ -26,8 +26,13 @@ pip install fastapi pandas numpy pickle5 uvicorn
 uvicorn main:app --reload
 ```
 
-## 📱 Deployment
-This project can be deployed on **Render**, **Heroku**, or **Dockerized** for cloud deployment.
+📱 Deployment
+
+This project has been successfully deployed on Render.
+
+🔗 Live Demo: ![Description](./Screenshot 2025-04-01 151607.png)
+
+This project can also be deployed on Heroku or Dockerized for cloud deployment.
 
 ## 🏗️ API Usage
 ### 1️⃣ Home Route  
